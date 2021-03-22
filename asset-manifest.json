@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/VOTRE_NOM_DE_DEPOT_GITHUB/static/css/main.d239cfdd.chunk.css",
+    "main.js": "/VOTRE_NOM_DE_DEPOT_GITHUB/static/js/main.7d4d5139.chunk.js",
+    "main.js.map": "/VOTRE_NOM_DE_DEPOT_GITHUB/static/js/main.7d4d5139.chunk.js.map",
+    "runtime-main.js": "/VOTRE_NOM_DE_DEPOT_GITHUB/static/js/runtime-main.a71d3f67.js",
+    "runtime-main.js.map": "/VOTRE_NOM_DE_DEPOT_GITHUB/static/js/runtime-main.a71d3f67.js.map",
+    "static/css/2.b39b49d3.chunk.css": "/VOTRE_NOM_DE_DEPOT_GITHUB/static/css/2.b39b49d3.chunk.css",
+    "static/js/2.966426b5.chunk.js": "/VOTRE_NOM_DE_DEPOT_GITHUB/static/js/2.966426b5.chunk.js",
+    "static/js/2.966426b5.chunk.js.map": "/VOTRE_NOM_DE_DEPOT_GITHUB/static/js/2.966426b5.chunk.js.map",
+    "index.html": "/VOTRE_NOM_DE_DEPOT_GITHUB/index.html",
+    "static/css/2.b39b49d3.chunk.css.map": "/VOTRE_NOM_DE_DEPOT_GITHUB/static/css/2.b39b49d3.chunk.css.map",
+    "static/css/main.d239cfdd.chunk.css.map": "/VOTRE_NOM_DE_DEPOT_GITHUB/static/css/main.d239cfdd.chunk.css.map",
+    "static/js/2.966426b5.chunk.js.LICENSE.txt": "/VOTRE_NOM_DE_DEPOT_GITHUB/static/js/2.966426b5.chunk.js.LICENSE.txt",
+    "static/media/couverture.2dc9ece9.webp": "/VOTRE_NOM_DE_DEPOT_GITHUB/static/media/couverture.2dc9ece9.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a71d3f67.js",
+    "static/css/2.b39b49d3.chunk.css",
+    "static/js/2.966426b5.chunk.js",
+    "static/css/main.d239cfdd.chunk.css",
+    "static/js/main.7d4d5139.chunk.js"
+  ]
+}
